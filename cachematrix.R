@@ -6,7 +6,7 @@
 ## 1. sets the value of the matrix
 ## 2. gets the value of the matrix
 ## 3. sets the value of the inverted matrix
-## 4. gets the 
+## 4. gets the value of the inverted matrix
 
 
 makeCacheMatrix <- function(x = matrix()) {
